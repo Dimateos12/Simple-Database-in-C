@@ -1,0 +1,93 @@
+list: 11
+node
+Zawodnik 
+value: 1
+imie: Robert
+nazwisko: Lapinski
+wiek: 49
+bramki: 4
+asysty: 0node
+Zawodnik 
+value: 2
+imie: adam
+nazwisko: sam
+wiek: 30
+bramki: 3
+asysty: 1node
+Zawodnik 
+value: 3
+imie: Adam
+nazwisko: Polak
+wiek: 5
+bramki: 2
+asysty: 2node
+Zawodnik 
+value: 1
+imie: Jerzy
+nazwisko: Rak
+wiek: 9
+bramki: 1
+asysty: 1node
+Druzyna 
+value: 6
+nazwa: Ada
+liga: Gdynia
+Pozycja: 3
+wygrane: 9
+remisy: 2
+przegrana: 3
+ node
+Druzyna 
+value: 1
+nazwa: Atletico_Madryt
+liga: Liga_hiszpanska
+Pozycja: 1
+wygrane: 7
+remisy: 2
+przegrana: 1
+ node
+Druzyna 
+value: 1
+nazwa: Barcelona
+liga: Gdynia
+Pozycja: 5
+wygrane: 8
+remisy: 7
+przegrana: 4
+ node
+Druzyna 
+value: 5
+nazwa: Real_Madryt
+liga: Liga_hiszpanska
+Pozycja: 3
+wygrane: 6
+remisy: 6
+przegrana: 3
+ node
+Druzyna 
+value: 5
+nazwa: Real_Sociedad
+liga: Liga_hiszpanska
+Pozycja: 2
+wygrane: 6
+remisy: 5
+przegrana: 3
+ node
+Druzyna 
+value: 5
+nazwa: Sevilla_FC
+liga: Gdynia
+Pozycja: 6
+wygrane: 6
+remisy: 8
+przegrana: 4
+ node
+Druzyna 
+value: 1
+nazwa: Villarreal_CF
+liga: Liga_hiszpanska
+Pozycja: 4
+wygrane: 1
+remisy: 7
+przegrana: 1
+ 

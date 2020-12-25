@@ -1,0 +1,25 @@
+ile: 4
+
+imie: Mateusz
+nazwisko: Oko
+iloscN: 2
+iloscU: 2
+mecz: Barcelona
+
+imie: Bartek
+nazwisko: Lapinski
+iloscN: 2
+iloscU: 2
+mecz: Real_Madryt
+
+imie: Wiktoria
+nazwisko: Aka
+iloscN: 2
+iloscU: 2
+mecz: Real_Sociedad
+
+imie: ada
+nazwisko: ada
+iloscN: 2
+iloscU: 0
+mecz: Barcelona
